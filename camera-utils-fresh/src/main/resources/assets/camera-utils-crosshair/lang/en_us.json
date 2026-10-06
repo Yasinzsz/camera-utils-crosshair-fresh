@@ -1,0 +1,132 @@
+{
+"text.autoconfig.camera-utils-crosshair.title": "Camera Utils Crosshair",
+
+"text.autoconfig.camera-utils-crosshair.option.showCrosshairInThirdPerson": "Third-Person Crosshair",
+"text.autoconfig.camera-utils-crosshair.option.showCrosshairInThirdPerson.@Tooltip": "Show the crosshair while using the Camera Utils third-person camera.",
+
+"text.autoconfig.camera-utils-crosshair.option.mode": "Crosshair Mode",
+"text.autoconfig.camera-utils-crosshair.option.mode.@Tooltip": "Choose how the crosshair behaves.",
+
+"text.autoconfig.camera-utils-crosshair.option.smoothness": "Smoothness",
+"text.autoconfig.camera-utils-crosshair.option.smoothness.@Tooltip": "Controls how smoothly the crosshair follows your aim.",
+
+"text.autoconfig.camera-utils-crosshair.option.movementStabilization": "Movement Stabilization",
+"text.autoconfig.camera-utils-crosshair.option.movementStabilization.@Tooltip": "Reduces unwanted crosshair movement caused by walking and jumping.",
+
+"text.autoconfig.camera-utils-crosshair.option.aimAnticipation": "Aim Anticipation",
+"text.autoconfig.camera-utils-crosshair.option.aimAnticipation.@Tooltip": "Allows the crosshair to slightly anticipate fast camera movement.",
+
+"text.autoconfig.camera-utils-crosshair.category.default": "Core",
+"text.autoconfig.camera-utils-crosshair.category.pvp": "PvP",
+"text.autoconfig.camera-utils-crosshair.category.aim_assist": "Aim Assist",
+"text.autoconfig.camera-utils-crosshair.category.building": "Building",
+"text.autoconfig.camera-utils-crosshair.category.projectiles": "Projectiles",
+"text.autoconfig.camera-utils-crosshair.category.effects": "Effects",
+"text.autoconfig.camera-utils-crosshair.category.advanced": "Advanced",
+
+"text.autoconfig.camera-utils-crosshair.option.targetDetection": "Target Detection",
+"text.autoconfig.camera-utils-crosshair.option.targetDetection.@Tooltip": "Detect players and other entities under the crosshair.",
+
+"text.autoconfig.camera-utils-crosshair.option.hitFeedback": "Hit Feedback",
+"text.autoconfig.camera-utils-crosshair.option.hitFeedback.@Tooltip": "Give the crosshair a subtle visual response when you hit an entity.",
+
+"text.autoconfig.camera-utils-crosshair.option.attackCooldown": "Attack Cooldown",
+"text.autoconfig.camera-utils-crosshair.option.attackCooldown.@Tooltip": "Show attack cooldown progress through the crosshair.",
+
+"text.autoconfig.camera-utils-crosshair.option.targetDistance": "Target Distance",
+"text.autoconfig.camera-utils-crosshair.option.targetDistance.@Tooltip": "Show useful distance information for the current target.",
+
+"text.autoconfig.camera-utils-crosshair.option.entityIndicator": "Entity Indicator",
+"text.autoconfig.camera-utils-crosshair.option.entityIndicator.@Tooltip": "Change the crosshair behavior when aiming at an entity.",
+
+"text.autoconfig.camera-utils-crosshair.option.outOfReachIndicator": "Out-of-Reach Indicator",
+"text.autoconfig.camera-utils-crosshair.option.outOfReachIndicator.@Tooltip": "Indicate when the current target is outside interaction or attack range.",
+
+"text.autoconfig.camera-utils-crosshair.option.aimAssist": "Aim Assist",
+"text.autoconfig.camera-utils-crosshair.option.aimAssist.@Tooltip": "Automatically and subtly assists your aim toward nearby targets.",
+
+"text.autoconfig.camera-utils-crosshair.option.aimAssistFirstPerson": "Aim Assist in First Person",
+"text.autoconfig.camera-utils-crosshair.option.aimAssistFirstPerson.@Tooltip": "Allow Aim Assist to work while using the normal first-person camera.",
+
+"text.autoconfig.camera-utils-crosshair.option.aimAssistStrength": "Aim Assist Strength",
+"text.autoconfig.camera-utils-crosshair.option.aimAssistStrength.@Tooltip": "Controls how strongly Aim Assist adjusts your aim.",
+
+"text.autoconfig.camera-utils-crosshair.option.aimAssistRange": "Aim Assist Range",
+"text.autoconfig.camera-utils-crosshair.option.aimAssistRange.@Tooltip": "Controls how far away Aim Assist can detect targets.",
+
+"text.autoconfig.camera-utils-crosshair.option.aimAssistAngle": "Aim Assist Angle",
+"text.autoconfig.camera-utils-crosshair.option.aimAssistAngle.@Tooltip": "Controls how far from your current aim a target can be for Aim Assist to activate.",
+
+"text.autoconfig.camera-utils-crosshair.option.aimAssistPlayers": "Target Players",
+"text.autoconfig.camera-utils-crosshair.option.aimAssistPlayers.@Tooltip": "Allow Aim Assist to target other players.",
+
+"text.autoconfig.camera-utils-crosshair.option.aimAssistMobs": "Target Mobs",
+"text.autoconfig.camera-utils-crosshair.option.aimAssistMobs.@Tooltip": "Allow Aim Assist to target mobs and other living entities.",
+
+"text.autoconfig.camera-utils-crosshair.option.buildingMode": "Building Mode",
+"text.autoconfig.camera-utils-crosshair.option.buildingMode.@Tooltip": "Enable building-specific crosshair features.",
+
+"text.autoconfig.camera-utils-crosshair.option.blockFaceIndicator": "Block Face Indicator",
+"text.autoconfig.camera-utils-crosshair.option.blockFaceIndicator.@Tooltip": "Show which face of a block you are aiming at.",
+
+"text.autoconfig.camera-utils-crosshair.option.blockFaceIndicatorFirstPerson": "Block Face Indicator in First Person",
+"text.autoconfig.camera-utils-crosshair.option.blockFaceIndicatorFirstPerson.@Tooltip": "Allow the block face indicator while using the normal first-person camera.",
+
+"text.autoconfig.camera-utils-crosshair.option.placementIndicator": "Placement Indicator",
+"text.autoconfig.camera-utils-crosshair.option.placementIndicator.@Tooltip": "Show where the held block is expected to be placed.",
+
+"text.autoconfig.camera-utils-crosshair.option.placementIndicatorFirstPerson": "Placement Indicator in First Person",
+"text.autoconfig.camera-utils-crosshair.option.placementIndicatorFirstPerson.@Tooltip": "Allow the placement indicator while using the normal first-person camera.",
+
+"text.autoconfig.camera-utils-crosshair.option.placementValidity": "Placement Validity",
+"text.autoconfig.camera-utils-crosshair.option.placementValidity.@Tooltip": "Indicate whether the current block placement is valid.",
+
+"text.autoconfig.camera-utils-crosshair.option.reachIndicator": "Reach Indicator",
+"text.autoconfig.camera-utils-crosshair.option.reachIndicator.@Tooltip": "Indicate when a block is outside your building reach.",
+
+"text.autoconfig.camera-utils-crosshair.option.placementAnimation": "Placement Animation",
+"text.autoconfig.camera-utils-crosshair.option.placementAnimation.@Tooltip": "Animate the crosshair when placing blocks.",
+
+"text.autoconfig.camera-utils-crosshair.option.placementGhost": "Placement Ghost",
+"text.autoconfig.camera-utils-crosshair.option.placementGhost.@Tooltip": "Show a translucent animated preview of the block you are about to place.",
+
+"text.autoconfig.camera-utils-crosshair.option.placementGhostFirstPerson": "Placement Ghost in First Person",
+"text.autoconfig.camera-utils-crosshair.option.placementGhostFirstPerson.@Tooltip": "Allow the placement ghost while using the normal first-person camera.",
+
+"text.autoconfig.camera-utils-crosshair.option.projectilePrediction": "Projectile Prediction",
+"text.autoconfig.camera-utils-crosshair.option.projectilePrediction.@Tooltip": "Show a trajectory prediction for supported projectiles.",
+
+"text.autoconfig.camera-utils-crosshair.option.predictionLength": "Prediction Length",
+"text.autoconfig.camera-utils-crosshair.option.predictionLength.@Tooltip": "Controls how far projectile prediction extends.",
+
+"text.autoconfig.camera-utils-crosshair.option.predictionDots": "Prediction Dots",
+"text.autoconfig.camera-utils-crosshair.option.predictionDots.@Tooltip": "Controls the number of prediction points.",
+
+"text.autoconfig.camera-utils-crosshair.option.targetAcquisitionAnimation": "Target Acquisition",
+"text.autoconfig.camera-utils-crosshair.option.targetAcquisitionAnimation.@Tooltip": "Animate the crosshair when a target is acquired.",
+
+"text.autoconfig.camera-utils-crosshair.option.targetLostAnimation": "Target Lost",
+"text.autoconfig.camera-utils-crosshair.option.targetLostAnimation.@Tooltip": "Animate the crosshair when a target is lost.",
+
+"text.autoconfig.camera-utils-crosshair.option.landingStabilization": "Landing Stabilization",
+"text.autoconfig.camera-utils-crosshair.option.landingStabilization.@Tooltip": "Smooth the crosshair when landing after a jump.",
+
+"text.autoconfig.camera-utils-crosshair.option.crosshairSpring": "Crosshair Spring",
+"text.autoconfig.camera-utils-crosshair.option.crosshairSpring.@Tooltip": "Give the crosshair physical spring-like movement.",
+
+"text.autoconfig.camera-utils-crosshair.option.directionalAnticipation": "Directional Anticipation",
+"text.autoconfig.camera-utils-crosshair.option.directionalAnticipation.@Tooltip": "Make the crosshair subtly react to fast directional movement.",
+
+"text.autoconfig.camera-utils-crosshair.option.springStrength": "Spring Strength",
+"text.autoconfig.camera-utils-crosshair.option.springStrength.@Tooltip": "Controls how strongly the crosshair follows its target.",
+
+"text.autoconfig.camera-utils-crosshair.option.springDamping": "Spring Damping",
+"text.autoconfig.camera-utils-crosshair.option.springDamping.@Tooltip": "Controls how quickly crosshair movement settles.",
+
+"text.autoconfig.camera-utils-crosshair.option.deadZone": "Aim Dead Zone",
+"text.autoconfig.camera-utils-crosshair.option.deadZone.@Tooltip": "Ignores tiny camera movements to prevent visual jitter.",
+
+"text.autoconfig.camera-utils-crosshair.option.debugInfo": "Debug Information",
+"text.autoconfig.camera-utils-crosshair.option.debugInfo.@Tooltip": "Show technical crosshair information for debugging."
+}
+

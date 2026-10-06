@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"package": "com.yasinz.crosshair.mixin",
+	"compatibilityLevel": "JAVA_25",
+	"client": [
+		"HudMixin",
+		"LevelRendererMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
